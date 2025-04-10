@@ -14,3 +14,16 @@
 
 ## Aves
 <img src="https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fcuriosidades.batanga.com%2Ffiles%2F5-especies-de-aves-que-no-vuelan-5.jpg&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp" width="300">
+
+
+### Juguetes
+<img src="">
+
+### Huesos
+<img src="peluche.jpg" heigth="100">
+
+### Camas
+<img src="">
+
+### Pelotas
+<img src="">
