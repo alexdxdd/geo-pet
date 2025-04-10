@@ -1,9 +1,34 @@
 # Geo Pet
 
-¡Bienvenido a **Geo Pet**! La mejor tienda en linea de artículos para mascotas.
+<p style="color: magenta">¡Bienvenido a **Geo Pet**! La mejor tienda en linea de artículos para mascotas.</p>
 
 ## Perros
-<img src="https://cdn.sanity.io/images/5vm5yn1d/pro/5cb1f9400891d9da5a4926d7814bd1b89127ecba-1300x867.jpg?fm=webp&q=80" width="300">
+<img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/01/06154129/Border-Collie-with-a-stick-in-its-mouth-outdoors-1.jpg" width="300">
+
+<table style="width:100"; border="2px">
+  <tr>
+    <th>Raza</th>
+    <th>Tamaño</th>
+    <th>Pelaje</th>
+    <th>Forografía</th>
+  </tr>
+  <tr>
+    <td>Border collie</td>
+    <td>40-50 cm</td>
+    <td>Medio, denso, impermeable y suave</td>
+    <td>[<img src="border-collie.jpg" width="75">](https://es.wikipedia.org/wiki/Border_collie)</td>
+    </tr>
+  <tr>
+    <td>Golden retriever</td>
+    <td>40-50 cm</td>
+    <td>Liso u ondulado, denso, impermeable y suave</td>
+    </tr>
+  <tr>
+    <td>Pastor alemán</td>
+    <td>40-50 cm</td>
+    <td>Corto, denso, impermeable y suave</td>
+</table>
+
 
 ***
 
@@ -17,13 +42,27 @@
 
 
 ### Juguetes
-<img src="">
-
-### Huesos
 <img src="peluche.jpg" heigth="100">
 
+1. Bolas.
+2. Donas.
+3. Peluches.
+
+
+### Huesos
+
+1. De cartílago.
+2. De juguete.
+
 ### Camas
-<img src="">
+
+1. Grandes.
+    - Blanca.
+    - Negra.
+    - Roja.
+2. Pequeñas.
 
 ### Pelotas
-<img src="">
+1. De hule.
+2. De tenis.
+3. De golf.
